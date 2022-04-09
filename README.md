@@ -17,8 +17,6 @@ git add -A :- to add all files in the present working directory to the staging a
 
 git checkout (file name) :– To match the file with last commit.
 
-ls -lart:- to see the hidden file
-
 git status:- to check the status of all files in working directory
 
 git commit:- to send the staged files to commit
